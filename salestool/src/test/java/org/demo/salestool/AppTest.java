@@ -22,7 +22,7 @@ public class AppTest
 	public void simpleTestFail() {
                int a = 2;
                int b = 2;
-               assertTrue(a + b == 4);
+               assertTrue(a + b == 1);
 		
 	}
 }
